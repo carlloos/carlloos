@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **carlloos/carlloos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Welcome!
+#### Hi there 👋
 
  
 
@@ -38,6 +37,9 @@ Here are some ideas to get you started:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carllos-eduardo-ferreira-lopes/)](https://www.linkedin.com/in/carllos-eduardo-ferreira-lopes/)
 
+[![carlloos GitHub stats](https://github-readme-stats.vercel.app/api?username=carlloos&theme=synthwave)](https://github.com/carlloos/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlloos&layout=compact&theme=synthwave)](https://github.com/carlloos/github-readme-stats)
 
 
 - Thanks for visiting!
