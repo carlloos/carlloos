@@ -14,3 +14,30 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Welcome!
+
+ 
+
+## I'm Carllos Eduardo!
+
+ 
+
+:computer: i'm an undergrad in Computer Science at Universidade Federal de Alagoas!
+
+:house_with_garden: I’m from Brazil.
+
+:books: I’m currently learning Data Science, Machine Learning and Deep Learning!.
+
+🔭 I’m currently working on a project that utilizes deep learning as tool for medical image diagnosis!
+
+ 
+
+## About me
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/carlloos)](https://github.com/carlloos)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= https://www.linkedin.com/in/carllos-eduardo-ferreira-lopes/)]( https://www.linkedin.com/in/carllos-eduardo-ferreira-lopes/)
+
+
+
+- Thanks for visiting!
