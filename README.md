@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
  
 
-:computer: i'm an undergrad in Computer Science at Universidade Federal de Alagoas!
+:computer: i'm an undergrad in Computer Science at Universidade Federal de Alagoas (UFAL)!
 
 :house_with_garden: I’m from Brazil.
 
-:books: I’m currently learning Data Science, Machine Learning and Deep Learning!.
+:books: I’m currently learning Data Science, Machine Learning and Deep Learning!
 
 🔭 I’m currently working on a project that utilizes deep learning as tool for medical image diagnosis!
 
