@@ -25,11 +25,7 @@ Here are some ideas to get you started:
 
 :house_with_garden: I’m from Brazil.
 
-:books: I’m currently learning Data Science, Machine Learning and Deep Learning!
-
-🔭 I’m currently working on a project that utilizes deep learning as tool for medical image diagnosis!
-
- 
+🔭 I’m currently working as a Data Scientist!
 
 ## About me
 
